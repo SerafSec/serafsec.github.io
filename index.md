@@ -14,7 +14,8 @@ customers. Perhaps you've recently been hacked, or you've just seen
 a peer severely impacted by cybercriminals. 
 
 You and your business have unique needs, risks, and constraints. 
-You need an intelligent security assessment and a feasible security plan.
+You need an intelligent security assessment and a feasible security plan so you
+can ensure that your customers, your employees, and your business are protected.
 
 # Who We Are
 
