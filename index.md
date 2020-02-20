@@ -5,9 +5,20 @@
 layout: default
 ---
 
+# Who You Are
+
+You are a small business owner or manager who is concerned about ransomware,
+phishing, hackers, and other digital threats. You're not sure where to begin, 
+and you really just want to get back to what you to best: helping your 
+customers. Perhaps you've recently been hacked, or you've just seen
+a peer severely impacted by cybercriminals. 
+
+You and your business have unique needs, risks, and constraints. 
+You need an intelligent security assessment and a feasible security plan.
+
 # Who We Are
 
-We are a team of experienced cybersecurity professionals with more than 25 
+We are a team of cybersecurity professionals with more than 25 
 years of combined experience in the industry. We have worked in a variety 
 of roles such as network administration, system administration, DevOps, 
 security engineering, project management, research and development, business
@@ -25,17 +36,13 @@ businesses safe from cybercrime if applied correctly and intelligently.
 # What We Do
 
 We perform security assessments for small businesses and individuals and come 
-up with plans to cooperatively improve security posture.
+up with plans to cooperatively improve security posture, without a Fortune 500
+budget.
 
-We work to understand your unique needs, risks, and constraints, to come up
-with an appropriate and feasible security roadmap.
-
-We don't just create a report and drop it in your inbox, we work together with
-you to implement any necessary changes we discover.
-
-We hope you never need to call us again! We're not interested in leaving you 
-with infrastructure and documentation you don't understand. We want you to
-be able to manage your security after we're gone.
+We don't just create a report and drop it in your inbox, we work together
+with you to implement any necessary changes we discover. We're not interested
+in leaving you with infrastructure and documentation you don't understand. We
+want you to be able to manage your security after we're gone.
 
 # Have a problem that needs solving?
 
